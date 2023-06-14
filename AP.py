@@ -9,18 +9,6 @@ from openpyxl import load_workbook
 from openpyxl.utils.dataframe import dataframe_to_rows
 
 
-#/****************
-#Problemas:
-# La actualizacion se ejecuta 8 veces
-# Si no hay ninguno valido, que salga un mensaje
-# No actualizar directamente patologo?
-# Mensaje de error cuando excel esta abierto
-# Si no metes ID que no te deje asignar
-# Cambiar tk de la barra del programa
-# Calcula con las UCL totales y no las relativas
-#********************************************************
-
-
 #IMPORTAR BASES DE DATOS
 
 PAT = pd.read_excel('Patologos y Muestras.xlsx',sheet_name='PATOLOGOS')
