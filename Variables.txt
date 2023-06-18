@@ -1,0 +1,7 @@
+Patólogo 1:1:100
+Patólogo 2:0:100
+Patólogo 3:1:100
+Patólogo 4:1:100
+Patólogo 5:1:50
+Patólogo 6:1:100
+Patólogo 7:1:100
